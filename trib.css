@@ -1,0 +1,31 @@
+
+
+
+h1{
+  background-color: #6A6D31;
+  font-family: monospace;
+}
+#tribute-link{
+  color: blue;
+  font-weight: 20px;
+  font-family: Helvetica;
+}
+#img-caption{
+  font-size: 20px;
+}
+#main{
+  text-align: center;
+}
+#image {
+width: 100%;
+height: auto;
+max-width: 500px;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+#tribute-info{
+  font-size: 28px;
+  font-family: lobster;
+  font-weight: 40px;
+}
